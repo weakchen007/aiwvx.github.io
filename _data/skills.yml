@@ -1,0 +1,20 @@
+- name: 人工智能
+  keywords:
+      - AI
+      - ChatGPT
+      - Newbing
+      - Bardgoogle
+      - Claude2
+
+- name: Mobile Developer Keywords
+  keywords:
+      - Android
+      - Reverse Engineering
+
+- name: Windows Developer Keywords
+  keywords:
+      - Win32 SDK
+      - DuiLib
+      - WTL
+      - COM
+      - WinDbg

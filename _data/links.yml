@@ -1,0 +1,43 @@
+- name: AI智谷
+  url: https://aiwv.xyz
+  src: life
+
+- name: Google
+  url: https://www.google.com
+  src: life
+
+- name: 油管
+  url: http://www.youtube.com
+  src: life
+
+- name: 维基百科
+  url: https://www.wikipedia.org/
+  src: life
+
+- name: Google学术
+  url: https://scholar.google.com/
+  src: life
+
+- name: 临时邮箱
+  url: https://internxt.com/zh/temporary-email
+  src: life
+
+- name: Python 100天从新手到大师
+  url: https://github.com/jackfrued/Python-100-Days
+  src: life
+
+- name: 被删除的前端游乐场
+  url: https://godbasin.github.io/front-end-playground/
+  src: life
+
+- name: Github漫游指南
+  url: https://github.com/phodal/github
+  src: life
+
+- name: 力扣-全球极客挚爱
+  url: https://leetcode.cn/
+  src: life
+
+- name: Docker 从入门到实践
+  url: https://yeasy.gitbook.io/docker_practice/
+  src: www
